@@ -1,1 +1,1 @@
-let z=document.querySelector("x");
+let x=document.querySelector("#x");
